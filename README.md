@@ -41,7 +41,8 @@ To run this app, follow these steps:
 
 - Clone this repository: https://github.com/01subhashree/Contact-management-app.git
 - Install the dependencies: npm install
-  @@ -42,7 +42,7 @@ To run this app, follow these steps:
+
+@@ -42,7 +42,7 @@ To run this app, follow these steps:
 
 # Screenshots
 
