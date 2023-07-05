@@ -29,7 +29,7 @@ export default function ContactInfo({
       <img
         className=" mx-auto mt-0"
         style={{ width: "80px" }}
-        src="http://getdrawings.com/free-icon/avatar-icon-png-51.png"
+        src="https://cdn0.iconfinder.com/data/icons/picture-sharing-sites-solid/32/Profile-512.png"
         alt="avtar"
       />
       <label className="font-bold mb-2">Person Name</label>
