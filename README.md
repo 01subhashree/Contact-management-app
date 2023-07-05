@@ -1,5 +1,5 @@
 # Contact Management App with Charts and Maps
-This is a contact management app built using ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux. 
+This is a contact management app built using ReactJS, TypeScript, TailwindCSS, React Router v6, and Redux. 
 The app includes a dashboard with charts and maps that display COVID-19 data for different countries.
 # Deployed Link : - 
 https://contact-management-app-nu.vercel.app/
@@ -21,6 +21,7 @@ The following technologies were used to build this app:
 
 - ReactJS
 - JavaScript
+- TypeScript
 - React-icons
 - React Query
 - Redux-Toolkit
