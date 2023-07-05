@@ -5,7 +5,7 @@ The app includes a dashboard with charts and maps that display COVID-19 data for
 https://contact-management-app-nu.vercel.app/
 
 # Pages and Functionality
-The app has two main pages:
+
 ## The app has two main pages:
 
 # Contacts
@@ -35,7 +35,7 @@ To run this app, follow these steps:
 
 # Screenshots 
 
-## Contact Page 
+
 ## Contact Page :-
 
 <img src=""/>
@@ -47,13 +47,13 @@ To run this app, follow these steps:
 </br>
 
 
-## Charts And Maps Page
+
 ## Charts And Maps Page :-
 
 <img src=""/>
 
 
-## Charts And Maps Page
+
 ## Charts And Maps Page :-
 
 <img src="./contact_management_app/ScreenShots/Chart_And_Maps_1.PNG"/>
