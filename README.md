@@ -1,46 +1,58 @@
-# Getting Started with Create React App
+# Contact Management App with Charts and Maps
+This is a contact management app built using ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux. 
+The app includes a dashboard with charts and maps that display COVID-19 data for different countries.
+# Deployed Link : - 
+https://contact-management-app-nu.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Pages and Functionality
+The app has two main pages:
+## The app has two main pages:
 
-## Available Scripts
+# Contacts
+This page allows you to manage your contacts. You can add a new contact by filling out the form, and the contact will be added to the list. You can also edit or delete an existing contact. Clicking on a contact's name will take you to the contact details page.
+@@ -23,8 +23,8 @@ The app uses the following APIs to fetch data:
+- Country Specific data of cases: https://disease.sh/v3/covid-19/countries
+- Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?lastdays=all
 
-In the project directory, you can run:
+#Technologies Used
+The following technologies were used to build this app:
+# Technologies Used
+## The following technologies were used to build this app:
 
-### `npm start`
+- ReactJS
+- JavaScript
+- React-icons
+- React Query
+- Redux-Toolkit
+# Installation and Setup
+To run this app, follow these steps:
+## To run this app, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Clone this repository: https://github.com/01subhashree/Contact-management-app.git
+- Install the dependencies: npm install
+@@ -42,7 +42,7 @@ To run this app, follow these steps:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Screenshots 
 
-### `npm test`
+## Contact Page 
+## Contact Page :-
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src=""/>
 
-### `npm run build`
+@@ -58,7 +58,7 @@ To run this app, follow these steps:
+</br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+</br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Charts And Maps Page
+## Charts And Maps Page :-
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<img src=""/>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Charts And Maps Page
+## Charts And Maps Page :-
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img src="./contact_management_app/ScreenShots/Chart_And_Maps_1.PNG"/>
