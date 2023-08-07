@@ -48,8 +48,10 @@ To run this app, follow these steps:
 
 ## Contact Page :-
 
-<img src="/public/2023-07-05%20(5).png" alt="screenshot1"/>
-<img src="/public/2023-07-05%20(6).png" alt="screenshot2"/>
+![Screenshot 2023-08-07 132536](https://github.com/01subhashree/Contact-management-app/assets/121716043/3e888ea6-a66a-4cf7-85b4-91ee2c781899)
+![Screenshot 2023-08-07 132439](https://github.com/01subhashree/Contact-management-app/assets/121716043/aaf43311-84b8-4f24-8d9a-67a19a66821e)
+![Screenshot 2023-08-07 132456](https://github.com/01subhashree/Contact-management-app/assets/121716043/e1622c83-93d1-4e1e-8b24-81fe3957c53f)
+![Screenshot 2023-08-07 132508](https://github.com/01subhashree/Contact-management-app/assets/121716043/26780035-a690-49aa-9a88-6bd0111ecab5)
 
 To run this app, follow these steps:
 </br>
