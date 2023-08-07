@@ -42,25 +42,25 @@ To run this app, follow these steps:
 - Clone this repository: https://github.com/01subhashree/Contact-management-app.git
 - Install the dependencies: npm install
 
-@@ -42,7 +42,7 @@ To run this app, follow these steps:
+To run this app, follow these steps:
 
 # Screenshots
 
 ## Contact Page :-
 
-<img src="/public/2023-07-05%20(5).png"/>
-<img src="/public/2023-07-05%20(6).png"/>
+<img src="/public/2023-07-05%20(5).png" alt="screenshot1"/>
+<img src="/public/2023-07-05%20(6).png" alt="screenshot2"/>
 
-@@ -58,7 +58,7 @@ To run this app, follow these steps:
+To run this app, follow these steps:
 </br>
 
 </br>
 
 ## Charts And Maps Page :-
 
-<img src="./public/2023-07-05%20(4).png"/>
-<img src="/public/2023-07-05%20(2).png"/>
+<img src="./public/2023-07-05%20(4).png" alt="screenshot3"/>
+<img src="/public/2023-07-05%20(2).png" alt="screenshot4"/>
 
 ## Charts And Maps Page :-
 
-<img src="./contact_management_app/ScreenShots/Chart_And_Maps_1.PNG"/>
+<img src="./contact_management_app/ScreenShots/Chart_And_Maps_1.PNG" alt="screenshot5"/>
