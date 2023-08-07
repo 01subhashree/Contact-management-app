@@ -60,4 +60,4 @@ To run this app, follow these steps:
 ## Charts And Maps Page :-
 
 ![Screenshot 2023-08-07 132456](https://github.com/01subhashree/Contact-management-app/assets/121716043/e1622c83-93d1-4e1e-8b24-81fe3957c53f)
-![Screenshot 2023-08-07 132508](https://github.com/01subhashree/Contact-management-app/assets/121716043/26780035-a690-49aa-9a88-6bd0111ecab5)
+![2023-07-05 (2)](https://github.com/01subhashree/Contact-management-app/assets/121716043/66eef515-8120-4cb5-bcc2-af5c82e622d8)
